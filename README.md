@@ -1,1 +1,2 @@
-# git-vjezba
+# Ovo je repozitorij za git vježbu
+
