@@ -9,3 +9,4 @@ Tehnologije:
 - PostgreSQL
 
 Web aplikacija omogućava korisnicima pregled slobodnih parking mjesta u realnom vremenu.
+Ovo je dodatna linija u fajlu.
